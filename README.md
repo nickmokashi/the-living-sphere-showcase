@@ -19,9 +19,13 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 - **Shows how it worked something out.** Claude's own short summary of its thinking sits folded under each answer.
 - **Keeps track for you.** Timers, reminders at a clock time, and notes it remembers between conversations.
 - **Drives the sphere.** "Show me memory", "play the signature demo", "zoom in", by voice or by typing.
-- **Hands-free if you want it.** It can wait for its name, then take follow-up questions without it.
+- **Hands-free if you want it.** Pick a wake phrase, like "Hey Regis", and leave it running: it wakes when you say it, then takes follow-up questions without it.
+- **Sees you while you talk, if you allow it.** A small preview shows whenever the camera is on, and each thing you say goes with a fresh picture.
+- **Headphones or speakers, by a look.** Before it speaks it checks whether you have headphones on and switches the sound to match.
+- **A big Private button.** One press stops all listening and looking until you switch it back, even after a restart.
+- **Voices to pick from,** each with a button to hear it first.
 
-Looking through the camera by itself and reading a folder of files are both off until you allow them, and the folder access is read-only. A daily spending limit stops it asking Claude for the rest of the day.
+The camera, reading a folder of files, and the headphones check are all off until you allow them, and the folder access is read-only. A daily spending limit stops it asking Claude for the rest of the day.
 
 ## Nine layers, one machine
 
