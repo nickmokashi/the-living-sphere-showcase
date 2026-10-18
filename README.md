@@ -21,7 +21,7 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 - **Drives the sphere.** "Show me memory", "play the signature demo", "zoom in", by voice or by typing.
 - **Hands-free if you want it.** Give it a name and leave it running: say the name once, and while the camera sees you, you just keep talking, with no name needed. When you leave, or say "that's all", it goes back to waiting, with a soft tone. Or leave it open whenever you're at your desk: no name at all.
 - **Talk over it and it stops.** It listens while it speaks, tells your voice from its own coming back through the speakers, and stops the moment you start talking. "Wait" quiets it, "stop" stops what it is doing.
-- **Sees you while you talk, if you allow it.** A small preview shows whenever the camera is on, and each thing you say goes with a fresh picture.
+- **Sees you while you talk, if you allow it.** It can use two cameras, one straight on and one from the side; a small preview shows each one whenever it is on, and each thing you say goes with fresh pictures from both.
 - **Headphones or speakers, by a look.** Before it speaks it checks whether you have headphones on and switches the sound to match.
 - **A big Private button.** One press stops all listening and looking until you switch it back, even after a restart.
 - **Voices to pick from,** each with a button to hear it first.
