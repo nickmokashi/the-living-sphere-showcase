@@ -1,6 +1,6 @@
 # The Living Sphere
 
-### One sphere. A million pins. Nine ways of looking at the same machine.
+### One sphere. A million pins. A machine you can watch think, and a place to think with it.
 
 ![Complete Mind: every layer at once during a planning question](shots/complete-mind.jpg)
 
@@ -30,13 +30,31 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 
 The camera, reading a folder of files, the face check and the headphones check are all off until you allow them, and the folder access is read-only unless Claude Code is the brain. A daily spending limit stops it asking Claude for the rest of the day.
 
-## Nine layers, one machine
+## A thinking partner, not only an assistant
+
+![Exploring a question: the ideas Claude suggested wait for a yes or no, while the sphere shows each one at its home](shots/explore.jpg)
+
+The assistant has three views over one conversation: **Talk**, **Explore** and **Research**.
+
+- **Explore.** Put a thought in and work it through: **expand** it into questions, assumptions and what follows; **challenge** it (gently, fairly, rigorously, or as a skeptic arguing the other side); **find links** to what you have saved, each named for what kind of link it is (a cause, an analogy, a contradiction, a guess); **design a test** you could actually run for a week; or look at it through **lenses** like physics, psychology, history or spirituality, or one of your own.
+- **Research.** Ask a question and the sources come back with the evidence labelled (established, preliminary, an expert's reading, a guess). Every source is opened and checked before it is called checked.
+- **Suggestions stay suggestions.** Nothing Claude offers counts until you accept it, and what you wrote is always marked as yours. Every idea keeps its full history, so changing your mind never erases what you thought before.
+- **It still works with no AI at all.** Saving, searching, linking, history and a set of honest questions of the app's own all work offline, and say so.
+- **It runs on a Claude subscription first.** A pay-per-use backup is optional, has a monthly ceiling, and says so every time it is used.
+
+![Research: two sources, both opened and checked (the teal dots), the evidence labelled](shots/research.jpg)
+
+![Your ideas on the sphere: your own thoughts carry a pearl ring, linked by threads to what grew from them](shots/knowledge-on-the-sphere.jpg)
+
+Everything you save becomes part of the sphere: each idea has a fixed home in the territory that fits its kind (open questions where the open questions are, hypotheses in Prediction, evidence in Knowledge), and links become threads.
+
+## Thirteen layers, one machine
 
 ![Memory being recalled: dense rings of pins rolling across Long-term Memory](shots/memory-recall.jpg)
 
 Each layer is a different way of looking at the same activity, and each draws something different, so turning them all on adds detail instead of repeating itself:
 
-**Machine Anatomy** (the engraved map of twelve territories, 3,108 cells in all) · **Neural Activity** (the pin field) · **Connections** · **Memory and Knowledge** (crystals that grow brighter with each recall) · **Reasoning** (spokes that meet where ideas are joined) · **Prediction** (branches for each possible outcome) · **Uncertainty and Conflict** (interference where information clashes) · **Tools and Actions** · **Time and History** (afterglow, and a ring that marks when everything happened).
+**Machine Anatomy** (the engraved map of twelve territories, 3,108 cells in all) · **Neural Activity** (the pin field) · **Connections** · **Memory and Knowledge** (crystals that grow brighter with each recall) · **Reasoning and Inference** (spokes that meet where ideas are joined) · **Prediction** (branches for each possible outcome) · **Uncertainty** (hollow rings for what is unknown, interference where information clashes) · **Tools and Actions** · **Time, History and Growth** (afterglow, and a ring that marks when everything happened) · and four for your own thinking: **Intuition and Association** · **Evidence** · **Contradiction** · **Your Contribution** (a pearl ring around everything you wrote yourself).
 
 ![Synthesis: separate ideas joined into one interpretation](shots/synthesis.jpg)
 
