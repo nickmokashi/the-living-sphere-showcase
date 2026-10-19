@@ -30,6 +30,14 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 
 The camera, reading a folder of files, the face check and the headphones check are all off until you allow them, and the folder access is read-only unless Claude Code is the brain. A daily spending limit stops it asking Claude for the rest of the day.
 
+## A figure that faces you
+
+![Five avatars: a man, a woman, a robot, a figure of light and an owl](shots/avatars.jpg)
+
+The sphere can step aside for a figure: a man, a woman, a robot, a figure made of points of light, or an owl. They are stylized sculptures on purpose, not lifelike people, and everything they do follows something real. Their eyes are open only while the cameras are on, half-closed while it just listens, and shut in Private. The mouth moves with the voice. They lean in to listen, look away while thinking, and turn toward where the camera sees you.
+
+The voice can be the computer's own, or a natural voice from an ElevenLabs account. That one stays inside a monthly limit you set, and always leaves a reserve in the plan for other work.
+
 ## A thinking partner, not only an assistant
 
 ![Exploring a question: the ideas Claude suggested wait for a yes or no, while the sphere shows each one at its home](shots/explore.jpg)
