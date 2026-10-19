@@ -46,7 +46,7 @@ The assistant has three views over one conversation: **Talk**, **Explore** and *
 
 ![Your ideas on the sphere: your own thoughts carry a pearl ring, linked by threads to what grew from them](shots/knowledge-on-the-sphere.jpg)
 
-Everything you save becomes part of the sphere: each idea has a fixed home in the territory that fits its kind (open questions where the open questions are, hypotheses in Prediction, evidence in Knowledge), and links become threads.
+Everything you save becomes part of the sphere: each idea has a fixed home in the territory that fits its kind (open questions where the open questions are, hypotheses in Prediction, evidence in Knowledge), and links become threads. Fly to any idea, see only the one you are working on, and save a view by name to come back to.
 
 ## Thirteen layers, one machine
 
