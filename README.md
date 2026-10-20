@@ -15,6 +15,7 @@ It is also an assistant you can talk to. Ask out loud or type, and you watch it 
 The answers come from Claude. Each step it takes shows twice: on the sphere as it happens, and in the conversation as a small line you can read afterwards.
 
 - **Looks things up.** It searches the web and reads pages when a question needs it, then lists its sources under the answer.
+- **Hands off long jobs.** A long piece of work goes to one background helper while the conversation carries on, and it says out loud when the job is done. Anything that needs your yes waits for you.
 - **Sees what you show it.** Attach a photo from the camera or a screenshot to a question, or paste any picture straight in.
 - **Shows how it worked something out.** Claude's own short summary of its thinking sits folded under each answer.
 - **Keeps track for you.** Timers, reminders at a clock time, and notes it remembers between conversations.
