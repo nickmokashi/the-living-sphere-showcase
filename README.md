@@ -42,19 +42,31 @@ The voice can be the computer's own, or a natural voice from an ElevenLabs accou
 
 ![Exploring a question: the ideas Claude suggested wait for a yes or no, while the sphere shows each one at its home](shots/explore.jpg)
 
-The assistant has three views over one conversation: **Talk**, **Explore** and **Research**.
+The assistant has three views over one conversation: **Talk**, **Explore** and **Tree**.
 
-- **Explore.** Put a thought in and work it through: **expand** it into questions, assumptions and what follows; **challenge** it (gently, fairly, rigorously, or as a skeptic arguing the other side); **find links** to what you have saved, each named for what kind of link it is (a cause, an analogy, a contradiction, a guess); **design a test** you could actually run for a week; or look at it through **lenses** like physics, psychology, history or spirituality, or one of your own.
-- **Research.** Ask a question and the sources come back with the evidence labelled (established, preliminary, an expert's reading, a guess). Every source is opened and checked before it is called checked.
+- **Explore.** Put a thought in and work it through: **expand** it into questions, assumptions and what follows; **challenge** it (gently, fairly, rigorously, or as a skeptic arguing the other side); **find links** to what you have saved, each named for what kind of link it is (a cause, an analogy, a contradiction, a guess); **design a test** you could actually run for a week; look at it through **lenses** like physics, psychology, history or spirituality, or one of your own; or **find sources**, and the sources come back with the evidence labelled (established, preliminary, an expert's reading, a guess). Every source is opened and checked before it is called checked.
 - **Suggestions stay suggestions.** Nothing Claude offers counts until you accept it, and what you wrote is always marked as yours. Every idea keeps its full history, so changing your mind never erases what you thought before.
 - **It still works with no AI at all.** Saving, searching, linking, history and a set of honest questions of the app's own all work offline, and say so.
 - **It runs on a Claude subscription first.** A pay-per-use backup is optional, has a monthly ceiling, and says so every time it is used.
 
-![Research: two sources, both opened and checked (the teal dots), the evidence labelled](shots/research.jpg)
+![Find sources: two sources, both opened and checked (the teal dots), the evidence labelled](shots/research.jpg)
 
 ![Your ideas on the sphere: your own thoughts carry a pearl ring, linked by threads to what grew from them](shots/knowledge-on-the-sphere.jpg)
 
 Everything you save becomes part of the sphere: each idea has a fixed home in the territory that fits its kind (open questions where the open questions are, hypotheses in Prediction, evidence in Knowledge), and links become threads. Fly to any idea, see only the one you are working on, and save a view by name to come back to.
+
+## A map of what you know
+
+![The knowledge tree: a sample notebook folder, a book opened down to its chapters, ideas and a conversation, with the picked chapter on the right](shots/tree.jpg)
+
+The **Tree** view lays everything out as one map: the folder you share with the assistant, the books in it, your ideas and what grew from them, your research with its checked sources, and your conversations.
+
+- **It goes as deep as the material.** A book opens into its files, a file into its chapters, a chapter into its paragraphs, and a paragraph into its sentences. Zooming into a closed branch opens it.
+- **It finds things.** Search the folder, your ideas and your conversations at once, and each result opens its way down to the match.
+- **Anything you pick is useful.** Open it in its own program, ask the assistant about it, or keep a chapter or a paragraph as one of your ideas.
+- **It is yours alone.** It is made only from what is on your own computer, with no AI. While it shows, the sphere rests.
+
+Every panel has the same two buttons, fold it down to its title or close it, and the screen keeps panels side by side, so none ever lies on top of another however many are open. Ideas you open stay as tabs until you close them, each with a menu of what to do next.
 
 ## Thirteen layers, one machine
 
