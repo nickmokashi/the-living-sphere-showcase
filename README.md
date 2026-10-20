@@ -21,7 +21,7 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 - **Shows how it worked something out.** Claude's own short summary of its thinking sits folded under each answer.
 - **Keeps track for you.** Timers, reminders at a clock time, and notes it remembers between conversations.
 - **Drives the sphere.** "Show me memory", "play the signature demo", "zoom in", by voice or by typing.
-- **Hands-free if you want it.** Give it a name and leave it running: say the name once, and while the camera sees you, you just keep talking, with no name needed. When you leave, or say "that's all", it goes back to waiting, with a soft tone. Or leave it open whenever you're at your desk: no name at all.
+- **Hands-free if you want it.** Give it a name and leave it running: say the name once, and while the camera sees you, you just keep talking, with no name needed. Say "that's all" and it goes back to waiting, with a soft tone; walk away and it goes quiet by itself. Or leave it open whenever you're at your desk: no name at all, and one soft ding when you sit down, never while you stay.
 - **Talk over it and it stops.** It listens while it speaks, tells your voice from its own coming back through the speakers, and stops the moment you start talking. "Wait" quiets it, "stop" stops what it is doing.
 - **Sees you while you talk, if you allow it.** It can use two cameras, one straight on and one from the side; a small preview shows each one whenever it is on, and each thing you say goes with fresh pictures from both.
 - **Headphones or speakers, by a look.** Before it speaks it checks whether you have headphones on and switches the sound to match.
