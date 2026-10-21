@@ -28,7 +28,7 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 - **A big Private button.** One press stops all listening and looking until you switch it back, even after a restart.
 - **Voices to pick from,** each with a button to hear it first.
 - **Can run on Claude Code.** Choose Claude Code as its brain and the assistant works the way a coding agent does, in one folder you allow: it reads, changes and creates files and runs commands, and asks first, on screen and out loud, before anything hard to undo. Every step lights the sphere where it happens.
-- **Knows who is there.** Teach it your face once and it answers only you, and when someone else sits down while you are away, it asks them what they are doing and tells you what they said when you are back. Faces are recognised on your own computer and kept only as numbers, never as pictures.
+- **Knows who is there.** Teach it your face once and it answers only you, and when someone else sits down while you are away, it asks them what they are doing and tells you what they said when you are back. Once it knows it is you, it stays sure: a change of light, a second camera or a glance at another screen does not turn you into a stranger. Faces are recognised on your own computer and kept only as numbers, never as pictures.
 
 The camera, reading a folder of files, the face check and the headphones check are all off until you allow them, and the folder access is read-only unless Claude Code is the brain. A daily spending limit stops it asking Claude for the rest of the day.
 
