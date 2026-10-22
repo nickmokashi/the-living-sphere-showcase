@@ -14,9 +14,9 @@ It is also an assistant you can talk to. Ask out loud or type, and you watch it 
 
 The answers come from Claude. Each step it takes shows twice: on the sphere as it happens, and in the conversation as a small line you can read afterwards.
 
-- **Looks things up.** It searches the web and reads pages when a question needs it, then lists its sources under the answer.
+- **Looks things up.** It searches the web and reads pages when a question needs it, then lists its sources under the answer. Every page and file it mentions has an Open button: pages open in your usual browser, documents and folders in Windows, and anything that could run as a program is only shown in its folder.
 - **Hands off long jobs, and never forgets one.** Long work goes to a background helper while the conversation carries on; every job waits its turn in a queue and starts by itself. A second helper, used only when it matters, argues the other side and tries to break finished work, without changing anything. It says out loud when each job is done, and anything that needs your yes waits for you.
-- **A chat that keeps everything.** Type while it is busy and your message shows straight away, waits its turn, and is answered next.
+- **A chat that keeps everything.** Type or talk while it is busy and what you said shows straight away, waits its turn, and is answered next. The message box grows as you type, so all of it can be read before you send it.
 - **Sees what you show it.** Attach a photo from the camera or a screenshot to a question, or paste any picture straight in.
 - **Shows how it worked something out.** Claude's own short summary of its thinking sits folded under each answer.
 - **Keeps track for you.** Timers, reminders at a clock time, and notes it remembers between conversations.
