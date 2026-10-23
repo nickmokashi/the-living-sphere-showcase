@@ -45,12 +45,12 @@ The voice can be the computer's own, or a natural voice from an ElevenLabs accou
 
 The assistant has three views over one conversation: **Talk**, **Explore** and **Tree**.
 
-- **Explore.** Put a thought in and work it through: **expand** it into questions, assumptions and what follows; **challenge** it (gently, fairly, rigorously, or as a skeptic arguing the other side); **find links** to what you have saved, each named for what kind of link it is (a cause, an analogy, a contradiction, a guess); **design a test** you could actually run for a week; look at it through **lenses** like physics, psychology, history or spirituality, or one of your own; or **find sources**, and the sources come back with the evidence labelled (established, preliminary, an expert's reading, a guess). Every source is opened and checked before it is called checked.
+- **Explore.** Put a thought in and work it through: **expand** it into questions, assumptions and what follows; **challenge** it (gently, fairly, rigorously, or as a skeptic arguing the other side); **find links** to what you have saved, each named for what kind of link it is (a cause, an analogy, a contradiction, a guess); **design a test** you could actually run for a week; look at it through **lenses** like physics, psychology, history or spirituality, or one of your own; or **find sources**, and the sources come back with the evidence labelled (established, preliminary, an expert's reading, a guess). Every source is opened and checked before it is called checked, and every page found for an idea is listed right under its title, where one click opens it in your browser. A box at the top of the panel always takes something new to research or keep, whatever idea is open.
 - **Suggestions stay suggestions.** Nothing Claude offers counts until you accept it, and what you wrote is always marked as yours. Every idea keeps its full history, so changing your mind never erases what you thought before.
 - **It still works with no AI at all.** Saving, searching, linking, history and a set of honest questions of the app's own all work offline, and say so.
 - **It runs on a Claude subscription first.** A pay-per-use backup takes over by itself when the subscription runs out, or straight away at the flip of a switch; it has a monthly ceiling, and says so every time it is used.
 
-![Find sources: two sources, both opened and checked (the teal dots), the evidence labelled](shots/research.jpg)
+![Find sources: every page found for an idea, listed right under its title, opened and checked; one click opens one in your browser](shots/research.jpg)
 
 ![Your ideas on the sphere: your own thoughts carry a pearl ring, linked by threads to what grew from them](shots/knowledge-on-the-sphere.jpg)
 
