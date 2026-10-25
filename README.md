@@ -27,9 +27,9 @@ The answers come from Claude. Each step it takes shows twice: on the sphere as i
 - **A big Private button.** One press stops all listening and looking until you switch it back, even after a restart.
 - **Voices to pick from,** each with a button to hear it first.
 - **Can run on Claude Code.** Choose Claude Code as its brain and the assistant works the way a coding agent does, in one folder you allow: it reads, changes and creates files and runs commands, and asks first, on screen and out loud, before anything hard to undo. Every step lights the sphere where it happens.
-- **Knows who is there.** Teach it your face once and it answers only you, and when someone else sits down while you are away, it asks them what they are doing and tells you what they said when you are back. Once it knows it is you, it stays sure: a change of light, a second camera or a glance at another screen does not turn you into a stranger. Faces are recognised on your own computer and kept only as numbers, never as pictures.
+- **Knows who is there, and never makes that a gate.** Teach it your face once and it calls you by name when it sees you. Not being recognised is never a reason it will not help: anyone at the desk is answered, and someone new is told, once, that every conversation here is remembered. Once it knows it is you, it stays sure: a change of light, a second camera or a glance at another screen does not turn you into a stranger. Faces are recognised on your own computer and kept only as numbers, never as pictures.
 
-The camera, reading a folder of files and the face check are all off until you allow them, and the folder access is read-only unless Claude Code is the brain. A daily spending limit stops it asking Claude for the rest of the day.
+The camera, reading a folder of files and the face check are all off until you allow them, and the folder access is read-only unless Claude Code is the brain. It answers from your Claude plan first. Paid answers stay inside a daily and a monthly limit that is checked before each request is sent, not after; at the plan's limit it never carries on with paid extra usage, and the top of the conversation says whenever answers cost money, with what has been spent.
 
 ## A figure that faces you
 
